@@ -7,8 +7,6 @@ A simple AI chatbot web application built using Streamlit and powered by Google'
 
 - Streamlit
 
-- Python
-
 - Google Generative AI 
 
 
